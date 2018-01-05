@@ -1,7 +1,7 @@
 ﻿using PhoneNumbers;
 using System.Collections.Generic;
 
-namespace ConsoleLibPhoneNumber
+namespace LibPhoneNumber
 {
     public static class LibPhoneNumberHelper
     {
